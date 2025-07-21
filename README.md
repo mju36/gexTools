@@ -1,2 +1,2 @@
 # gexTools
-dashboarD
+A dashboard that shows analytics for any ticker retrieving the GEX, GAMMA, Max Pain, Call/Put Walls, etc... 
